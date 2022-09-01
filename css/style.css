@@ -3,10 +3,10 @@
   padding: 0;
   box-sizing: border-box; }
 
-.header{
-  background-color: rgb(17, 0, 255);
+.header {
+  background-color: blue;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center; }
   .header__img {
     margin-left: 1rem; }
