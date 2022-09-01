@@ -4,7 +4,7 @@
   box-sizing: border-box; }
 
 .header {
-  background-color: aqua;
+  background-color: orange;
   display: flex;
   justify-content: center;
   align-items: center; }
