@@ -3,8 +3,8 @@
   padding: 0;
   box-sizing: border-box; }
 
-.header {
-  background-color: orange;
+.header{
+  background-color: rgb(17, 0, 255);
   display: flex;
   justify-content: center;
   align-items: center; }
